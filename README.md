@@ -1,3 +1,0 @@
-# JoschiJonas.github.io
-Webseite von Jonathan und Jonas...
-© JoschiJonas, 2021, All rights reserved
