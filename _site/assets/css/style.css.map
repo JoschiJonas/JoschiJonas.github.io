@@ -3,12 +3,14 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"_sass/main.scss"
+		"_sass/main.scss",
+		"_sass/navigation.scss"
 	],
 	"sourcesContent": [
-		"@import \"main\";",
-		""
+		"@import \"main\";\n@import \"navigation\";",
+		"",
+		"nav {\r\n    background-color: rgb(85, 85, 85);\r\n}\r\n\r\nnav h2 {\r\n    color: rgb(255, 166, 0);\r\n}"
 	],
 	"names": [],
-	"mappings": ""
+	"mappings": "AEAA,AAAA,GAAG,CAAC,EACA,gBAAgB,EAAE,OAAe,GACpC;;AAED,AAAA,GAAG,CAAC,EAAE,CAAC,EACH,KAAK,EAAE,OAAgB,GAC1B"
 }
